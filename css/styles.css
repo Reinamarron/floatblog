@@ -1,0 +1,16 @@
+body {
+    max-width: 1000px;
+    float: none;
+    margin: auto;  
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo img {
+    border: 2px solid blue;
+    
+}
